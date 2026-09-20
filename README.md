@@ -4,7 +4,7 @@ Mobilapp i React Native (Expo), der viser golfbaner omkring CBS på kort og i en
 
 Lavet som individuel obligatorisk opgave 1 i INNT (E26).
 
-**Demovideo:** _(indsæt link her)_
+**Demovideo:** <img width="1204" height="2610" alt="D06CFC1F-7329-453C-8240-4817DAB2ED4A_1_102_o" src="https://github.com/user-attachments/assets/f1d5b07a-ec5e-4bd2-a31b-016473866a6b" />
 
 ## Funktioner
 - **Baner**: liste over golfbaner sorteret efter afstand fra CBS. Tryk på en bane for detaljer.
